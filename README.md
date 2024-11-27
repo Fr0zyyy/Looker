@@ -46,8 +46,8 @@ It is simple you need insert an ip address (example: 146.70.52.181 or 8.8.8.8). 
 
 
 ## Installation
-
-Install the modules
+1.st go to releases and download the zip file
+2.Install the modules by executing
 
 ```bash
 pip install -r requirements.txt
@@ -62,5 +62,5 @@ pip install -r requirements.txt
 ## Author
 
 - By [@Fr0zyyy](https://www.github.com/Fr0zyyy) 
-- made by love <3
+- made with love <3
 
